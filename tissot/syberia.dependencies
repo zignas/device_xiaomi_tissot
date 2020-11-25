@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "MASTERGUY/android_kernel_xiaomi_msm8953.git",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch": "eleven",
+    "remote": "github" 
+  }
+
+  {
+    "repository": "yaap/vendor_xiaomi.git",
+    "target_path": "vendor/xiaomi",
+    "branch": "eleven",
+    "remote": "github"
+  }
+]
